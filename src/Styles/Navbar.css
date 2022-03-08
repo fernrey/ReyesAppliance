@@ -1,0 +1,53 @@
+
+.Navbar{
+	background-color: black;
+	padding: 1.5em;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.about{
+	text-decoration: none;
+	margin-right: auto;
+	color: Green;
+
+}
+.about:hover{
+	color: white;
+	transition-duration: .2s;
+}
+.pricing{
+	text-decoration: none;
+	margin-right: auto;
+	color: Green;
+
+}
+.pricing:hover{
+	color: white;
+	transition-duration: .2s;
+}
+.contact{
+	text-decoration: none;
+	margin-right: auto;
+	color: Green;
+
+}
+.contact:hover{
+	color: white;
+	transition-duration: .2s;
+}
+
+.home{
+	text-decoration: none;
+	margin-right: auto;
+	color: Green;
+	border-style: solid;
+	padding: 5px;
+	border-radius: 8px;
+}
+.home:hover{
+	color: white;
+	transition-duration: .2s;
+}
+

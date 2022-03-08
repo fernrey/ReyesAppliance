@@ -1,0 +1,11 @@
+.homePage{
+
+	justify-content: center;
+	border-style: solid;
+	margin: auto;
+	margin-top: 10px;
+	width: 50%
+}
+.Title{
+	color: green;
+}
