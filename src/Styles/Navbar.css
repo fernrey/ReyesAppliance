@@ -9,45 +9,53 @@
 
 .about{
 	text-decoration: none;
-	margin-right: auto;
-	color: Green;
-
+	
+	color: #00EF9C;
+	transition-duration: .3s;
 }
 .about:hover{
 	color: white;
-	transition-duration: .2s;
+
 }
 .pricing{
 	text-decoration: none;
-	margin-right: auto;
-	color: Green;
-
+	
+	color: #00EF9C;
+	transition-duration: .3s;
 }
 .pricing:hover{
 	color: white;
-	transition-duration: .2s;
 }
 .contact{
 	text-decoration: none;
-	margin-right: auto;
-	color: Green;
-
+	
+	color: #00EF9C;
+	transition-duration: .3s;
 }
 .contact:hover{
 	color: white;
-	transition-duration: .2s;
+
 }
 
 .home{
 	text-decoration: none;
-	margin-right: auto;
-	color: Green;
-	border-style: solid;
+	color: #00EF9C;
+	
 	padding: 5px;
 	border-radius: 8px;
+	transition-duration: .3s;
+
 }
 .home:hover{
 	color: white;
-	transition-duration: .2s;
+}
+
+.MainTitle{
+	font-size: 2.5em;
+	background-color: gold;
+	padding: 15px;
+	align-items: center;
+
+
 }
 
